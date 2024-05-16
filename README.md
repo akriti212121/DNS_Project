@@ -1,5 +1,5 @@
 DNS Mini Project
 
-- Sourav Singh
 - Akriti Singh
+- Sourav Singh
 - Varun Verma
